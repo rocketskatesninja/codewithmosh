@@ -1,6 +1,6 @@
 :root {
   --border-radius: 30px;
-  --color-accent: #ff9495;
+  --color-accent: #ff4d00;
   --color-body: #918ca4;
   --color-background: #2b2b2b;
   --color-border: #ccc;
@@ -28,7 +28,7 @@ body {
   background-color: var(--color-background);
   font-size: 2.4rem;
   line-height: 1.5;
-  padding: 2rem;
+  /* padding: 2rem; */
 }
 
 h1,
